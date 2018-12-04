@@ -1,7 +1,5 @@
 # Scénario du Workshop
 
-![logo](https://github.com/hmatheisen/Watson_Academy/blob/master/pictures/logo.jpg)
-
 Bonjour,
 
 Vous venez d’être embauché par la société « Coffee Bean ». Cette société souhaite mettre en œuvre un chatbot pour fournir de nouvelles services à ces clients dans sa démarche de digitalisation de sa relation client.
