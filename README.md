@@ -1,7 +1,4 @@
-# Watson & Cloud Academy, Paris
- Cet espace est dédié à l'événement IBM Watson Academy prévu en France en 2018.
-
- ![WCA_logo](https://github.com/hmatheisen/Watson_Academy/blob/master/pictures/WCA_logo.png)
+# Tech Academy
  
 ## Workshop Watson Assistant
 
