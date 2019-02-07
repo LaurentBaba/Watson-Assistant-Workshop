@@ -1,4 +1,4 @@
-# Tech Academy
+# Watson Workshop
  
 ## Workshop Watson Assistant
 
