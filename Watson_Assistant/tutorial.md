@@ -105,6 +105,8 @@ Voici la liste des entités finalisée:
 27. Dans le champ `If assistant recognizes`, ajouter `@boissons:Latte`, saissisez la réponse dans le champ `Respond with`
 28. Rajoutez d'autres conditions comme `@boissons:espresso`, `@boissons:capuccino`
 29. Testez avec une question comme "Quel est le prix d'un Latte ?"
+30. Créez un noeud `Liste des Produits` et dans le champ `If assistant recognizes`, ajoutez l'intent `#voir-produits`.
+31. Dans les types de réponses, sélectionnez `Image` et précisez le lien d'une image.
 
 Arborescence du dialogue :
 ![finished dialog](https://github.com/vperrinfr/Watson_Academy/blob/master/pictures/dialog.png)
