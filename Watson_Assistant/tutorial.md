@@ -2,8 +2,8 @@
 Nous allons créer un chatbot qui permet la prise de commande de café ou thé et renseigne le client sur les produits et leurs prix.
 
 ## Création d'un compte ou accès à la plateforme IBM Cloud
-1. Aller sur le lien et créer un compte : https://console.bluemix.net/registration/
-2. Ou, aller à  https://console.bluemix.net/ et identifiez vous avec votre compte.
+1. Aller sur la [IBM Cloud](https://cloud.ibm.com) et créer un compte
+2. Ou s'identifier directement sur [IBM Cloud](https://cloud.ibm.com)
 
 ## Création d'une instance IBM Watson Assistant (ex- Watson Conversation)
 1. Une fois authentifié, cliquez sur `Catalog` dans la barre supérieure de l'écran
