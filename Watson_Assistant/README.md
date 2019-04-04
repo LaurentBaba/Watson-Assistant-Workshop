@@ -47,7 +47,7 @@ Liste des entités : [entities_csv](https://github.com/hmatheisen/Watson_Academy
 
 - [Tutorial](https://github.com/hmatheisen/Watson_Academy/blob/master/Watson_Assistant/tutorial.md)
 - [Solution](https://github.com/hmatheisen/Watson_Academy/blob/master/Watson_Assistant/data/Coffee_Shop.json)
-- [Solution avancée](https://github.com/hmatheisen/Watson_Academy/blob/master/Watson_Assistant/data/Coffee_Shop_avance.json)
+- [Solution avancée](https://github.com/hmatheisen/Watson-Assistant-Workshop/blob/master/Watson_Assistant/data/Coffee_Shop_avancee.json)
 
 
 
